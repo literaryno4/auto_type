@@ -1,3 +1,3 @@
 # auto_type
 
-A tiny progamme to automate my part time job.
+A tiny programme to automate my part time job.
