@@ -35,12 +35,15 @@ for i in range(num_question):
     f.write("题目页码：" + ques_style + str(i+1) + next_line)
     f.write("题干：" + next_line)
     if i+1 in subques_dict:
-        for j in range(num_subques):
+        for j in range(subques_dict[i+1]):
             f.write("题目内容" + str(j+1) + "：" + next_line)
     else:
         f.write("题目内容：" + next_line)
     f.write("解答页码：" + ans_style + str(i+1) + next_line)
     f.write("答案：" + next_line)
+    if i+1 in subques_dict:
+        for j in range(subques_dict[i+1] - 1):
+            f.write(next_line)
     f.write("\n")
 
 ## write tail
