@@ -6,10 +6,9 @@ head = "\\documentclass[11pt]{article}\n\\usepackage{CJKutf8}\n\\usepackage[utf8
 tail = "\\end{CJK*}\n\\end{document}"
 
 file_name = input("请输入文件名：")
-num_question = int(input("请输入题目个数："))
-num_have_subques = int(input("请输入有小问的题目个数"))
 ques_style = input("请输入问题页码和标号风格（例如：P533,Q17-i）：")
-ans_style = input("请输入答案页码和标号风格（例如：P533,A17-i）：")
+num_question = int(input("请输入题目个数："))
+num_have_subques = int(input("请输入有小问的题目个数："))
 next_line = "\\\\\n"
 
 ## a dict to store the info of subquestion
@@ -18,6 +17,10 @@ for i in range(num_have_subques):
     ind_subques, num_subques = map(int, input("请输入有小问的题目序号以及相应的小问个数（空格隔开）：").split())
     subques_dict[ind_subques] = num_subques
 
+ans_page = int(input("请输入答案起始页码："))
+ans_end_page = int(input("请输入答案结束页码："))
+ans_style = input("请输入答案页码和标号风格（例如：A17-i）：")
+ans_per_page = (num_question // (ans_end_page - ans_page))
 
 ## open file
 f = open(file_name, "a")
@@ -39,11 +42,11 @@ for i in range(num_question):
             f.write("题目内容" + str(j+1) + "：" + next_line)
     else:
         f.write("题目内容：" + next_line)
-    f.write("解答页码：" + ans_style + str(i+1) + next_line)
+    f.write("解答页码：" + "P" +str(ans_page + i // ans_per_page) + "," + ans_style + str(i+1) + next_line)
     f.write("答案：" + next_line)
-    if i+1 in subques_dict:
-        for j in range(subques_dict[i+1] - 1):
-            f.write(next_line)
+#    if i+1 in subques_dict:
+#        for j in range(subques_dict[i+1] - 1):
+#            f.write(next_line)
     f.write("\n")
 
 ## write tail
@@ -51,3 +54,5 @@ f.write(tail)
 
 ## close file
 f.close()
+#! mkdir ~/Desktop/第四周/file_name.strip(".tex")
+#! cp file_name ~/Desktop/第四周/file_name/
