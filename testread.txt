@@ -1,0 +1,445 @@
+True / False
+
+1. One prominent debate over macroeconomic policy centers on the question of whether monetary and fiscal policy should be used to try to stabilize the economy.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.044 - Debate the use of discretionary policy to stabilize the economy.
+TOPICS:  	Fiscal policy
+Macroeconomic policy debates
+KEYWORDS:  	BLOOM'S: Comprehension
+CUSTOM ID:  	001.36 - TF - MANK08
+
+
+2. A recession has no benefit to society-it represents a sheer waste of resources.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.044 - Debate the use of discretionary policy to stabilize the economy.
+TOPICS:  	Business cycles
+KEYWORDS:  	BLOOM'S: Knowledge
+CUSTOM ID:  	002.36 - TF - MANK08
+
+
+3. A "lean against the wind" policy says the government should not use stabilization policy and simply let the economy "weather the storm."
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.044 - Debate the use of discretionary policy to stabilize the economy.
+TOPICS:  	Fiscal policy
+KEYWORDS:  	BLOOM'S: Knowledge
+CUSTOM ID:  	003.36 - TF - MANK08
+
+
+4. Advocates of stabilization policy argue that when there is a recession, the government should increase the money supply and increase government expenditures.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.044 - Debate the use of discretionary policy to stabilize the economy.
+TOPICS:  	Fiscal policy
+KEYWORDS:  	BLOOM'S: Application
+CUSTOM ID:  	004.36 - TF - MANK08
+
+
+5. Many studies indicate changes in monetary policy have most of their effect on aggregate demand about six months after the change is made.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.044 - Debate the use of discretionary policy to stabilize the economy.
+TOPICS:  	Monetary policy
+Lags
+KEYWORDS:  	BLOOM'S: Comprehension
+CUSTOM ID:  	005.36 - TF - MANK08
+
+
+6. Economists predict the business cycle well enough that stabilization policy is likely to work despite lags in the effects of policy.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+DIFFICULTY:  	Moderate
+LEARNING OBJECTIVES:  	ECON.MANK.044 - Debate the use of discretionary policy to stabilize the economy.
+TOPICS:  	Monetary policy
+Lags
+KEYWORDS:  	BLOOM'S: Knowledge
+CUSTOM ID:  	006.36 - TF - MANK08
+
+
+7. To counter the recession of 2008-2009 President Obama and congress created a large increase in government expenditures.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Moderate
+LEARNING OBJECTIVES:  	ECON.MANK.027 - Compare the effects of fighting a recession with spending hikes versus tax cuts.
+TOPICS:  	Fiscal policy
+KEYWORDS:  	BLOOM'S: Knowledge
+CUSTOM ID:  	007.36 - TF - MANK08
+
+
+8. According to traditional Keynesian analysis, a tax cut has a larger effect on aggregate demand than an increase in government expenditures of the same size.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+DIFFICULTY:  	Moderate
+LEARNING OBJECTIVES:  	ECON.MANK.027 - Compare the effects of fighting a recession with spending hikes versus tax cuts.
+TOPICS:  	Fiscal policy
+KEYWORDS:  	BLOOM'S: Knowledge
+CUSTOM ID:  	008.36 - TF - MANK08
+
+
+9. The Obama administration believed that transfer payments to the unemployed would have a larger impact on aggregate demand than tax cuts.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Moderate
+LEARNING OBJECTIVES:  	ECON.MANK.027 - Compare the effects of fighting a recession with spending hikes versus tax cuts.
+TOPICS:  	Fiscal policy
+KEYWORDS:  	BLOOM'S: Knowledge
+CUSTOM ID:  	009.36 - TF - MANK08
+
+
+10. Tax cuts proposed by the Kennedy and Reagan administrations were followed by robust economic growth.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Moderate
+LEARNING OBJECTIVES:  	ECON.MANK.027 - Compare the effects of fighting a recession with spending hikes versus tax cuts.
+TOPICS:  	Fiscal policy
+KEYWORDS:  	BLOOM'S: Knowledge
+CUSTOM ID:  	010.36 - TF - MANK08
+
+
+11. Tax cuts affect only aggregate demand not aggregate supply.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+DIFFICULTY:  	Moderate
+LEARNING OBJECTIVES:  	ECON.MANK.027 - Compare the effects of fighting a recession with spending hikes versus tax cuts.
+TOPICS:  	Fiscal policy
+KEYWORDS:  	BLOOM'S: Knowledge
+CUSTOM ID:  	011.36 - TF - MANK08
+
+
+12. The laws that created the Fed give it only vague recommendations about what goals it should pursue, and they do not tell the Fed how to pursue whatever goals it might choose.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.028 - Compare the effects of making monetary policy by rule rather than by discretion.
+TOPICS:  	Monetary policy
+KEYWORDS:  	BLOOM'S: Comprehension
+CUSTOM ID:  	012.36 - TF - MANK08
+
+
+13. The laws that created the Fed give it some specific recommendations about what goals it should pursue so it has little discretion in making policy.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+DIFFICULTY:  	Moderate
+LEARNING OBJECTIVES:  	ECON.MANK.028 - Compare the effects of making monetary policy by rule rather than by discretion.
+TOPICS:  	Monetary policy
+KEYWORDS:  	BLOOM'S: Knowledge
+CUSTOM ID:  	013.36 - TF - MANK08
+
+
+14. The Federal Reserve operates under a rule that requires money supply growth to increase by one percentage point for every percentage point that unemployment rises above its natural rate.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.028 - Compare the effects of making monetary policy by rule rather than by discretion.
+TOPICS:  	Monetary policy
+KEYWORDS:  	BLOOM'S: Comprehension
+CUSTOM ID:  	014.36 - TF - MANK08
+
+
+15. If the central bank has discretion to make policy, it may create economic fluctuations that reflect the electoral calendar. This is called the political business cycle.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.028 - Compare the effects of making monetary policy by rule rather than by discretion.
+TOPICS:  	Monetary policy
+KEYWORDS:  	BLOOM'S: Knowledge
+CUSTOM ID:  	015.36 - TF - MANK08
+
+
+16. People’s skepticism about central bankers’ announcements of their intentions stems from the fact that policymakers may act in a fashion that is time inconsistent.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Moderate
+LEARNING OBJECTIVES:  	ECON.MANK.028 - Compare the effects of making monetary policy by rule rather than by discretion.
+TOPICS:  	Monetary policy
+KEYWORDS:  	BLOOM'S: Comprehension
+CUSTOM ID:  	016.36 - TF - MANK08
+
+
+17. If the Fed followed a rule for monetary policy, the time inconsistency problem would be eliminated.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.028 - Compare the effects of making monetary policy by rule rather than by discretion.
+TOPICS:  	Monetary policy
+KEYWORDS:  	BLOOM'S: Comprehension
+CUSTOM ID:  	017.36 - TF - MANK08
+
+
+18. In practice, the problems created by time inconsistency and the political business cycle appear to be quite serious.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.028 - Compare the effects of making monetary policy by rule rather than by discretion.
+TOPICS:  	Business cycles
+KEYWORDS:  	BLOOM'S: Knowledge
+CUSTOM ID:  	018.36 - TF - MANK08
+
+
+19. Economists agree that if a monetary policy rule is to be used, the best one makes the growth rate of the money supply constant.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.028 - Compare the effects of making monetary policy by rule rather than by discretion.
+TOPICS:  	Monetary policy
+KEYWORDS:  	BLOOM'S: Knowledge
+CUSTOM ID:  	019.36 - TF - MANK08
+
+
+20. Proponents of zero-inflation policies acknowledge that the public is unconcerned about the inflation rate.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.303 - Identify the trade-off associated with achieving zero inflation.
+TOPICS:  	Monetary policy
+KEYWORDS:  	BLOOM'S: Comprehension
+CUSTOM ID:  	020.36 - TF - MANK08
+
+
+21. The cost of inflation reduction is a large, permanent increase in unemployment.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.303 - Identify the trade-off associated with achieving zero inflation.
+TOPICS:  	Monetary policy
+Macroeconomic policy debates
+KEYWORDS:  	BLOOM'S: Application
+CUSTOM ID:  	021.36 - TF - MANK08
+
+
+22. The cost of inflation reduction is less if people believe that the central bank will really reduce inflation.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Moderate
+LEARNING OBJECTIVES:  	ECON.MANK.303 - Identify the trade-off associated with achieving zero inflation.
+TOPICS:  	Monetary policy
+Macroeconomic policy debates
+KEYWORDS:  	BLOOM'S: Application
+CUSTOM ID:  	022.36 - TF - MANK08
+
+
+23. It is possible that the cost of inflation reduction might be quite large compared to the annual costs of moderate inflation.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.303 - Identify the trade-off associated with achieving zero inflation.
+TOPICS:  	Monetary policy
+Macroeconomic policy debates
+KEYWORDS:  	BLOOM'S: Application
+CUSTOM ID:  	023.36 - TF - MANK08
+
+
+24. There are ways that policymakers could reduce the costs of inflation without reducing inflation.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.303 - Identify the trade-off associated with achieving zero inflation.
+TOPICS:  	Inflation costs
+Price levels
+KEYWORDS:  	BLOOM'S: Application
+CUSTOM ID:  	024.36 - TF - MANK08
+
+
+25. Proponents of a balanced government budget acknowledge that running a budget deficit is justifiable in time of war.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.086 - Discuss the benefits and costs of reducing the budget deficit.
+TOPICS:  	Balanced budget
+Fiscal policy
+KEYWORDS:  	BLOOM'S: Comprehension
+CUSTOM ID:  	025.36 - TF - MANK08
+
+
+26. When the government has a deficit, a burden is necessarily imposed on future generations of taxpayers.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.086 - Discuss the benefits and costs of reducing the budget deficit.
+TOPICS:  	Budget deficits
+Fiscal policy
+KEYWORDS:  	BLOOM'S: Application
+CUSTOM ID:  	026.36 - TF - MANK08
+
+
+27. The average U.S. citizens' share of the government debt represents less than 2 percent of a person’s lifetime income.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.086 - Discuss the benefits and costs of reducing the budget deficit.
+TOPICS:  	Economic thinking
+U.S. economy
+KEYWORDS:  	BLOOM'S: Knowledge
+CUSTOM ID:  	027.36 - TF - MANK08
+
+
+28. Proponents and opponents of balanced-budget policies agree that the government debt cannot continue to increase forever.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.086 - Discuss the benefits and costs of reducing the budget deficit.
+TOPICS:  	Budget deficits
+Fiscal policy
+KEYWORDS:  	BLOOM'S: Comprehension
+CUSTOM ID:  	028.36 - TF - MANK08
+
+
+29. Social Security transfers wealth from younger generations to older generations.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.045 - Debate whether tax laws should be reformed to encourage saving.
+TOPICS:  	Fiscal policy
+KEYWORDS:  	BLOOM'S: Application
+CUSTOM ID:  	029.36 - TF - MANK08
+
+
+30. A nation's saving rate is not a primary determinant of its long-run economic prosperity.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.045 - Debate whether tax laws should be reformed to encourage saving.
+TOPICS:  	Saving
+KEYWORDS:  	BLOOM'S: Comprehension
+CUSTOM ID:  	030.36 - TF - MANK08
+
+
+31. Once state and federal taxes are added together, a typical worker faces about a 40 percent marginal tax-rate on interest income.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.045 - Debate whether tax laws should be reformed to encourage saving.
+TOPICS:  	Taxes
+KEYWORDS:  	BLOOM'S: Knowledge
+CUSTOM ID:  	031.36 - TF - MANK08
+
+
+32. Tax laws do not give preferential treatment to some kinds of retirement saving.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.045 - Debate whether tax laws should be reformed to encourage saving.
+TOPICS:  	Fiscal policy
+KEYWORDS:  	BLOOM'S: Knowledge
+CUSTOM ID:  	032.36 - TF - MANK08
+
+
+33. In effect, a consumption tax would put all saving automatically into a tax-advantaged savings account similar to an Individual Retirement Account (IRA).
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Moderate
+LEARNING OBJECTIVES:  	ECON.MANK.045 - Debate whether tax laws should be reformed to encourage saving.
+TOPICS:  	Taxes
+KEYWORDS:  	BLOOM'S: Comprehension
+CUSTOM ID:  	033.36 - TF - MANK08
+
+
+34. Some studies have found that saving is not very sensitive to the rate of return on saving.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.045 - Debate whether tax laws should be reformed to encourage saving.
+TOPICS:  	Saving
+KEYWORDS:  	BLOOM'S: Knowledge
+CUSTOM ID:  	034.36 - TF - MANK08
+
+
+35. A reduction in the marginal tax-rate includes a substitution effect that tends to increase saving.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.045 - Debate whether tax laws should be reformed to encourage saving.
+TOPICS:  	Saving
+KEYWORDS:  	BLOOM'S: Application
+CUSTOM ID:  	035.36 - TF - MANK08
+
+
+36. A reduction in the marginal tax-rate includes an income effect that tends to increase savings.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.045 - Debate whether tax laws should be reformed to encourage saving.
+TOPICS:  	Saving
+KEYWORDS:  	BLOOM'S: Application
+CUSTOM ID:  	036.36 - TF - MANK08
+
+
+37. In essence, a consumption tax puts all saving into tax-advantaged savings accounts.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.045 - Debate whether tax laws should be reformed to encourage saving.
+TOPICS:  	Taxes
+KEYWORDS:  	BLOOM'S: Comprehension
+CUSTOM ID:  	037.36 - TF - MANK08
+
+
+38. If real output grows at 3 percent per year and the inflation rate is 3 percent per year then government debt can grow by 6 percent per year and not increase the ratio of debt to income.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.086 - Discuss the benefits and costs of reducing the budget deficit.
+TOPICS:  	Debt
+Fiscal policy
+KEYWORDS:  	BLOOM'S: Comprehension
+CUSTOM ID:  	038.36 - TF - MANK08
+
+
+39. Forward-looking parents can reverse the adverse effects of government debt by saving more and leaving a larger bequest to their children.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+DIFFICULTY:  	Easy
+LEARNING OBJECTIVES:  	ECON.MANK.045 - Debate whether tax laws should be reformed to encourage saving.
+TOPICS:  	Saving
+KEYWORDS:  	BLOOM'S: Comprehension
+CUSTOM ID:  	039.36 - TF - MANK08
+
+
+
+
